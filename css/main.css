@@ -1,0 +1,67 @@
+.ft{
+	background-image:url("../img/foto.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	opacity:0.9;
+}
+h2{
+	font-size:23px;
+	text-align:center;
+	padding-top:15px;
+}
+.or{
+	background:#FFA319;
+	opacity: 0.8;
+	margin-top:45%;
+	height:50px;
+}
+#lg{
+	width:135%;
+	height: 120%;
+	margin-top:10%;
+	padding-left:35px;
+}
+nav ul{
+	list-style-type:none;
+	padding-top:24px;
+	margin:0 -15px 0 0;
+	float:right;
+	font-size:14px;
+	line-height:14px;
+	text-transform:uppercase;
+	white-space:nowrap;   
+}
+nav li{
+	position:relative;
+	float:left;
+	margin:0;
+	padding:0;
+}
+nav li:hover b{
+	background:#FFA319;
+}
+nav b{
+	text-decoration:none;
+	padding:10px 15px;
+	color:black;
+	text-shadow:2px 2px 4px #000;
+}
+.lg{
+	height:600px;
+}
+.img{
+	width:260px;
+	height:200px;
+	margin-top:20%;
+}
+hr{
+	width:260px;
+}
+.gr{
+	background:#2C2C2C;
+	margin-top:5%;
+}
+p{
+	margin-top:5%;
+	color:white;
+}
